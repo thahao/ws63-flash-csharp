@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "spark_light_flash_console": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\13682\\Desktop\\11111111111111111111111.fwpkg\" -p COM5 -b 921600"
+    }
+  }
+}
